@@ -1,7 +1,6 @@
 .header {
     display: flex;
     justify-content: space-between;
-    font-weight: bold
 }
 
 h1 {
@@ -38,4 +37,9 @@ button {
 
 h3 {
     color: #f9faf8;
+}
+
+.logo h1{
+    font-size: 36px;
+    font-weight: bolder;
 }
