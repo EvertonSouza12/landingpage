@@ -124,5 +124,30 @@ img {
 }
 
 .ft {
+    border-radius: 8px;
+    background-color: #3882f6;
+    align-items: center;
+    text-align: center;
+    width: 1000px;
+    justify-content: space-around;
     display: flex;
+    gap: 30px;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}
+
+footer {
+    align-items: center;
+    padding-left: 200px;
+}
+
+.btnft button {
+    border-radius: 8px;
+    border-style: solid;
+    border-color: white;
+    background-color:#3882f6;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
 }
