@@ -140,6 +140,7 @@ img {
 footer {
     align-items: center;
     padding-left: 200px;
+    padding-bottom: 40px;
 }
 
 .btnft button {
@@ -150,4 +151,15 @@ footer {
     font-size: 20px;
     font-weight: bold;
     color: white;
+}
+
+.fotter {
+    background-color: #1f2937;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
