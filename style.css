@@ -111,11 +111,9 @@ img {
 .client h2 {
     font-size: 36px;
     font-style: italic;
-    text-align: end;
     color: #1f2937;
     width: 1000px;
-    padding-left: 170px;
-    text-align: center;
+    padding-left: 300px;
 }
 
 .client span {
@@ -123,4 +121,8 @@ img {
     color: #1f2937;
     font-weight: bold;
     text-align: end;
+}
+
+.ft {
+    display: flex;
 }
