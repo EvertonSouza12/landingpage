@@ -13,11 +13,13 @@ h1 {
 .links ul {
     display: flex;
     gap: 24px;
+    padding-right: 50px;
 }
 
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    padding-left: 50px;
 }
 
 .links li {
@@ -30,10 +32,13 @@ button {
     background-color:  #3882f6;
     color: white;
     border-radius: 8px;
+    padding: 10px 5px;
+    font-size: 20px;
 }
 
 .hero {
     background-color: #1f2937;
+    border-radius: 8px;
 }
 
 h3 {
@@ -51,4 +56,21 @@ h3 {
     color: #1f2937;
     text-align: center;
     padding-top: 30px;
+}
+
+.top {
+    display: flex;
+    gap: 50px;
+    padding-bottom: 60px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.text h1, h3 {
+    display: flex;
+}
+
+img {
+    border-radius: 8px;
 }
